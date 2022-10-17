@@ -1,7 +1,18 @@
-
-
-#Box{
+.box{
     width:5rem;
     height:5rem;
     background-color:orangered;
+    margin:1rem;
+    border-radius:20px;
+    position:relative;
+    top:-7rem;
+}
+
+.box2{
+    width:6rem;
+    height:6rem;
+    background-color:lightgray;
+    margin:1rem;
+    border-radius:20px;
+
 }
